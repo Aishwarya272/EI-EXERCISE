@@ -1,15 +1,17 @@
-This is the implementation of adapter pattern
+## **Adapter Pattern for Managing Guest Operating Systems with VirtualBox**
 
-Having a virtualbox as the adapter which helps in adapting differnt operating system on a host os
+In the context of VirtualBox acting as an adapter, it enables various guest operating systems (Linux, Ubuntu, etc.) to run on a host operating system (Windows) by adapting their interfaces to a common format that the host OS can understand and manage.
 
-For instance : It helps in managing both Linux and Ubuntu os which has differnt configuration and commands and these guest os adaptes to host os with the help of a adapter.
+The Adapter Pattern allows incompatible interfaces to work together by wrapping one interface around another. 
 
-Sample Properties of linux
+By using the Adapter Pattern, the VirtualBoxAdapter allows different guest operating systems to be managed seamlessly through a common interface, making it easier to control and integrate various systems into a unified management solution.
+
+**Sample Properties of linux**
 - boot
 - shutdown
 - reboot
 
-Sample Properties of Ubuntu
+**Sample Properties of Ubuntu**
 - powerOn
 - powerOff
 - Reset
