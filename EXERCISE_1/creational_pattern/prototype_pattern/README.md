@@ -4,7 +4,7 @@ Prototype pattern is used here because there are similar type of CDN located at 
 
 So, this design pattern helps in managing CDNs
 
-Classes: 
+Files: 
  - CDNConfiguration.java
  - CDNPrototype.java
  - PrototypePattern.java
