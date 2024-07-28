@@ -1,4 +1,4 @@
-This is the implementation of composite pattern for Oganization chart
+This is the implementation of **Composite Pattern for Oganization Chart**
 
 Consider an organization with various departments, each having multiple managers and employees. 
 
