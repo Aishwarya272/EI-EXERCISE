@@ -1,6 +1,8 @@
-This is the implementation of customizing burger using Builder pattern
+This is the implementation of **Burger Customization** using Builder pattern
 
-Customization of Burger by the following features 
+In a burger customization system, the Builder Pattern allows customers to create their desired burger by selecting various components and ingredients step-by-step.
+
+**Customization of Burger by the following ingredients**
 - bun
 - patty
 - cheese
