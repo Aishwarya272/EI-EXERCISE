@@ -9,6 +9,6 @@ Customization of Burger by the following features
 - pickles
 - onions
 
-Classes : 
+Files : 
     - Burger.java
     - BuilderPatternDemo.java
